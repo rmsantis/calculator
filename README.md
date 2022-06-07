@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/rmoitinho-azuredevops/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/rmsantis.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/rmoitinho-azuredevops/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=21&branchName=refs%2Fpull%2F1%2Fmerge)
+
 # Calculator
 The Windows Calculator app is a modern Windows app written in C++ and C# that ships pre-installed with Windows.
 The app provides standard, scientific, and programmer calculator functionality, as well as a set of converters between various units of measurement and currencies.
